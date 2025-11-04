@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa KIR</h1>
-<h3 align="center">Game Developer | Backend Systems & AI-Driven Gameplay</h3>
+<h3 align="center">Game Developer | Multiplayer Systems | C# Backend</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
